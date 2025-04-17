@@ -60,32 +60,6 @@ O sistema é composto pelas seguintes **coleções** (equivalentes a tabelas em 
        cobertura: ["Consultas", "Exames", "Internação"]
      }
      ```  
-
-5. **`prescricoes`**  
-   - Registra medicamentos prescritos em consultas.  
-   - Exemplo:  
-     ```javascript
-     {
-       _id: ObjectId("..."),
-       consulta: ObjectId("..."),
-       medicamentos: [
-         { nome: "Paracetamol", dosagem: "500mg" }
-       ]
-     }
-     ```  
-
-6. **`exames`**  
-   - Armazena resultados de exames solicitados em consultas.  
-   - Exemplo:  
-     ```javascript
-     {
-       _id: ObjectId("..."),
-       paciente: ObjectId("..."),
-       tipo: "Hemograma",
-       resultado: { hemoglobina: "14 g/dL" }
-     }
-     ```  
-
 ---
 
 ## **🔍 Queries e Análises**  
