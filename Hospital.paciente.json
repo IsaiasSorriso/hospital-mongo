@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "68005eccb2a157c1bae2d22b"
+  },
+  "cpf": "987.654.321-00",
+  "nome": "João Silva",
+  "dataNascimento": {
+    "$date": "1990-08-20T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 97777-6666",
+  "historicoMedico": {
+    "doencasCronicas": [
+      "Diabetes"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68005eccb2a157c1bae2d22c"
+  },
+  "cpf": "456.789.123-00",
+  "nome": "Carlos Ferreira",
+  "dataNascimento": {
+    "$date": "1978-11-30T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 95555-4444"
+},
+{
+  "_id": {
+    "$oid": "68005eccb2a157c1bae2d22d"
+  },
+  "cpf": "321.654.987-00",
+  "nome": "Ana Paula Costa",
+  "dataNascimento": {
+    "$date": "2000-03-10T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 93333-2222",
+  "historicoMedico": {
+    "alergias": [
+      "Dipirona"
+    ]
+  }
+}]

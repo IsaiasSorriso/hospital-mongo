@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "68005e54b2a157c1bae2d228"
+  },
+  "crm": "654321/RJ",
+  "nome": "Dr. Carlos Mendes",
+  "especialidades": [
+    "Ortopedia"
+  ],
+  "telefone": "(21) 99876-5432",
+  "email": "carlos.mendes@hospital.com",
+  "ativo": true
+},
+{
+  "_id": {
+    "$oid": "68005e54b2a157c1bae2d229"
+  },
+  "crm": "789012/MG",
+  "nome": "Dra. Juliana Almeida",
+  "especialidades": [
+    "Pediatria"
+  ],
+  "telefone": "(31) 98765-1234",
+  "email": "juliana.almeida@hospital.com",
+  "ativo": true
+},
+{
+  "_id": {
+    "$oid": "68005e54b2a157c1bae2d22a"
+  },
+  "crm": "345678/BA",
+  "nome": "Dr. Roberto Santos",
+  "especialidades": [
+    "Neurologia"
+  ],
+  "telefone": "(71) 99988-7766",
+  "ativo": false
+}]

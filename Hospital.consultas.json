@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "68005f0a93e6431eb967d88c"
+  },
+  "paciente": {
+    "$oid": "653a1b2c3d4e5f6a7b8c9d03"
+  },
+  "medico": {
+    "$oid": "653a1b2c3d4e5f6a7b8c9d04"
+  },
+  "dataHora": {
+    "$date": "2023-11-16T09:15:00.000Z"
+  },
+  "motivo": "Check-up anual",
+  "status": "Agendada"
+},
+{
+  "_id": {
+    "$oid": "68005f0a93e6431eb967d88d"
+  },
+  "paciente": {
+    "$oid": "653a1b2c3d4e5f6a7b8c9d01"
+  },
+  "medico": {
+    "$oid": "653a1b2c3d4e5f6a7b8c9d02"
+  },
+  "dataHora": {
+    "$date": "2023-11-17T16:45:00.000Z"
+  },
+  "motivo": "Acompanhamento pós-cirúrgico",
+  "diagnostico": "Recuperação satisfatória",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "68005f0a93e6431eb967d88e"
+  },
+  "paciente": {
+    "$oid": "653a1b2c3d4e5f6a7b8c9d05"
+  },
+  "medico": {
+    "$oid": "653a1b2c3d4e5f6a7b8c9d04"
+  },
+  "dataHora": {
+    "$date": "2023-11-18T11:00:00.000Z"
+  },
+  "motivo": "Dor abdominal",
+  "status": "Cancelada"
+}]
