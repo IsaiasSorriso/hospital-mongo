@@ -10,56 +10,34 @@ O sistema é composto pelas seguintes **coleções** (equivalentes a tabelas em 
 
 1. **`medicos`**  
    - Armazena informações dos médicos (CRM, nome, especialidade, contato, horários de atendimento).  
-   - Exemplo:  
-     ```javascript
-     {
-       _id: ObjectId("..."),
-       crm: "123456/SP",
-       nome: "Dr. João Silva",
-       especialidades: ["Cardiologia", "Clínico Geral"],
-       telefone: "(11) 99999-9999"
-     }
-     ```  
 
 2. **`pacientes`**  
    - Contém dados pessoais, histórico médico e informações de contato dos pacientes.  
-   - Exemplo:  
-     ```javascript
-     {
-       _id: ObjectId("..."),
-       cpf: "123.456.789-00",
-       nome: "Maria Oliveira",
-       historicoMedico: {
-         alergias: ["Penicilina"],
-         doencasCronicas: ["Hipertensão"]
-       }
-     }
-     ```  
 
 3. **`consultas`**  
    - Registra consultas médicas, vinculando pacientes e médicos.  
-   - Exemplo:  
-     ```javascript
-     {
-       _id: ObjectId("..."),
-       paciente: ObjectId("..."),
-       medico: ObjectId("..."),
-       dataHora: ISODate("2024-03-20T14:30:00Z"),
-       motivo: "Dor no peito",
-       status: "Concluída"
-     }
-     ```  
 
 4. **`planos_saude`**  
    - Armazena informações sobre os planos de saúde disponíveis.  
-   - Exemplo:  
-     ```javascript
-     {
-       _id: ObjectId("..."),
-       nome: "Saúde Total",
-       cobertura: ["Consultas", "Exames", "Internação"]
-     }
-     ```  
+
+5. **`prescricoes`**  
+   - Registra medicamentos prescritos em consultas.  
+
+6. **`exames`**  
+   - Armazena resultados de exames solicitados em consultas.  
+
+7. **`internacoes`**  
+   - Gerencia internações hospitalares, relacionando pacientes, médicos e enfermeiros.  
+
+8. **`enfermeiros`**  
+   - Cadastro de profissionais de enfermagem.  
+
+9. **`tipos_quarto`**  
+   - Define os tipos de quartos disponíveis no hospital.  
+
+10. **`especialidades`**  
+    - Lista as especialidades médicas disponíveis.  
+
 ---
 
 ## **🔍 Queries e Análises**  
@@ -141,12 +119,13 @@ db.consultas.deleteOne({ _id: ObjectId("...") })
 
 ---
 
+
 ## **📌 Conclusão**  
 Este banco de dados em **MongoDB** resolve os principais problemas de hospitais que usam planilhas, oferecendo **organização, eficiência e análises avançadas**.  
 
 **Dúvidas?** Consulte a documentação do MongoDB ou abra uma *issue* no repositório.  
 
-📌 **Repositório GitHub:** [github.com/IsaiasSorriso/hospital-mongo](https://github.com/IsaiasSorriso/hospital-mongo)  
+📌 **Repositório GitHub:** [github.com/IsaiasSorriso/hospital-mongodb](https://github.com/IsaiasSorriso/hospital-mongodb)  
 
 --- 
 
