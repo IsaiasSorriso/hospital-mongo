@@ -43,4 +43,295 @@
       "Dipirona"
     ]
   }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f201"
+  },
+  "cpf": "111.222.333-44",
+  "nome": "João Silva",
+  "dataNascimento": {
+    "$date": "1980-05-15T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 98888-7777",
+  "email": "joao.silva@gmail.com",
+  "historicoMedico": {
+    "alergias": [
+      "Dipirona"
+    ],
+    "doencasCronicas": [
+      "Hipertensão"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f101"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "cpf": "222.333.444-55",
+  "nome": "Maria Oliveira",
+  "dataNascimento": {
+    "$date": "1992-08-20T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 97777-6666",
+  "email": "maria.oliveira@gmail.com",
+  "historicoMedico": {
+    "alergias": [
+      "Penicilina"
+    ],
+    "doencasCronicas": [
+      "Diabetes"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f102"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f203"
+  },
+  "cpf": "333.444.555-66",
+  "nome": "Carlos Ferreira",
+  "dataNascimento": {
+    "$date": "1975-11-30T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 96666-5555",
+  "email": "carlos.ferreira@gmail.com",
+  "historicoMedico": {
+    "doencasCronicas": [
+      "Colesterol Alto"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f103"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f204"
+  },
+  "cpf": "444.555.666-77",
+  "nome": "Ana Paula Costa",
+  "dataNascimento": {
+    "$date": "2005-03-10T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 95555-4444",
+  "email": "ana.costa@gmail.com",
+  "historicoMedico": {
+    "alergias": [
+      "Amoxicilina"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f205"
+  },
+  "cpf": "555.666.777-88",
+  "nome": "Pedro Santos",
+  "dataNascimento": {
+    "$date": "2010-07-22T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 94444-3333",
+  "historicoMedico": {
+    "doencasCronicas": [
+      "Asma"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f101"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f206"
+  },
+  "cpf": "666.777.888-99",
+  "nome": "Luiza Mendes",
+  "dataNascimento": {
+    "$date": "1988-12-05T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 93333-2222",
+  "email": "luiza.mendes@gmail.com",
+  "historicoMedico": {
+    "alergias": [
+      "Iodo"
+    ],
+    "doencasCronicas": [
+      "Enxaqueca"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f102"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "cpf": "777.888.999-00",
+  "nome": "Rafael Barbosa",
+  "dataNascimento": {
+    "$date": "1970-01-18T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 92222-1111",
+  "historicoMedico": {
+    "doencasCronicas": [
+      "Artrite"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f208"
+  },
+  "cpf": "888.999.000-11",
+  "nome": "Fernanda Lima",
+  "dataNascimento": {
+    "$date": "1995-09-25T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 91111-0000",
+  "email": "fernanda.lima@gmail.com",
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f103"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f209"
+  },
+  "cpf": "999.000.111-22",
+  "nome": "Lucas Oliveira",
+  "dataNascimento": {
+    "$date": "2008-04-12T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 90000-9999",
+  "historicoMedico": {
+    "alergias": [
+      "Dipirona",
+      "Amoxicilina"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f101"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f210"
+  },
+  "cpf": "000.111.222-33",
+  "nome": "Juliana Costa",
+  "dataNascimento": {
+    "$date": "1983-06-08T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 98989-8787",
+  "email": "juliana.costa@gmail.com",
+  "historicoMedico": {
+    "doencasCronicas": [
+      "Depressão"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f102"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f211"
+  },
+  "cpf": "123.456.789-00",
+  "nome": "Marcos Vinicius",
+  "dataNascimento": {
+    "$date": "1999-02-14T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 97878-7676",
+  "email": "marcos.vinicius@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f212"
+  },
+  "cpf": "234.567.890-11",
+  "nome": "Patricia Souza",
+  "dataNascimento": {
+    "$date": "1978-10-31T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 96767-6565",
+  "historicoMedico": {
+    "doencasCronicas": [
+      "Diabetes",
+      "Hipertensão"
+    ]
+  },
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f103"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f213"
+  },
+  "cpf": "345.678.901-22",
+  "nome": "Roberto Carlos",
+  "dataNascimento": {
+    "$date": {
+      "$numberLong": "-141609600000"
+    }
+  },
+  "sexo": "M",
+  "telefone": "(11) 95656-5454",
+  "email": "roberto.carlos@gmail.com",
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f101"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f214"
+  },
+  "cpf": "456.789.012-33",
+  "nome": "Amanda Nunes",
+  "dataNascimento": {
+    "$date": "2002-12-24T00:00:00.000Z"
+  },
+  "sexo": "F",
+  "telefone": "(11) 94545-4343",
+  "historicoMedico": {
+    "alergias": [
+      "Penicilina"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f215"
+  },
+  "cpf": "567.890.123-44",
+  "nome": "Diego Alves",
+  "dataNascimento": {
+    "$date": "1989-04-05T00:00:00.000Z"
+  },
+  "sexo": "M",
+  "telefone": "(11) 93434-3232",
+  "email": "diego.alves@gmail.com",
+  "planoSaude": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f102"
+  }
 }]

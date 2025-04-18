@@ -46,4 +46,344 @@
   },
   "motivo": "Dor abdominal",
   "status": "Cancelada"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f301"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f201"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f111"
+  },
+  "dataHora": {
+    "$date": "2015-03-10T09:30:00.000Z"
+  },
+  "motivo": "Check-up anual",
+  "diagnostico": "Saudável",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f302"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f112"
+  },
+  "dataHora": {
+    "$date": "2015-05-15T14:00:00.000Z"
+  },
+  "motivo": "Dor nas costas",
+  "diagnostico": "Hérnia de disco",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f303"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f203"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f113"
+  },
+  "dataHora": {
+    "$date": "2016-01-20T10:15:00.000Z"
+  },
+  "motivo": "Febre persistente",
+  "diagnostico": "Infecção urinária",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f304"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f204"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f114"
+  },
+  "dataHora": {
+    "$date": "2016-07-05T16:45:00.000Z"
+  },
+  "motivo": "Dor de cabeça",
+  "diagnostico": "Enxaqueca",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f305"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f205"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f115"
+  },
+  "dataHora": {
+    "$date": "2017-02-18T11:30:00.000Z"
+  },
+  "motivo": "Erupção cutânea",
+  "diagnostico": "Alergia",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f306"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f206"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f116"
+  },
+  "dataHora": {
+    "$date": "2017-09-22T08:00:00.000Z"
+  },
+  "motivo": "Dor abdominal",
+  "diagnostico": "Gastrite",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f307"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f117"
+  },
+  "dataHora": {
+    "$date": "2018-04-30T15:20:00.000Z"
+  },
+  "motivo": "Pressão alta",
+  "diagnostico": "Hipertensão",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f308"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f208"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f118"
+  },
+  "dataHora": {
+    "$date": "2018-11-12T13:10:00.000Z"
+  },
+  "motivo": "Check-up",
+  "diagnostico": "Saudável",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f309"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f209"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f119"
+  },
+  "dataHora": {
+    "$date": "2019-06-25T09:45:00.000Z"
+  },
+  "motivo": "Febre",
+  "diagnostico": "Virose",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f310"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f210"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f120"
+  },
+  "dataHora": {
+    "$date": "2020-01-08T14:30:00.000Z"
+  },
+  "motivo": "Dor no joelho",
+  "diagnostico": "Lesão no menisco",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f311"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f211"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f121"
+  },
+  "dataHora": {
+    "$date": "2020-08-19T10:00:00.000Z"
+  },
+  "motivo": "Manchas na pele",
+  "diagnostico": "Dermatite",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f312"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f212"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f122"
+  },
+  "dataHora": {
+    "$date": "2021-03-03T16:15:00.000Z"
+  },
+  "motivo": "Tonturas",
+  "diagnostico": "Labirintite",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f313"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f201"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f111"
+  },
+  "dataHora": {
+    "$date": "2021-10-14T11:45:00.000Z"
+  },
+  "motivo": "Acompanhamento hipertensão",
+  "diagnostico": "Pressão controlada",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f314"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f112"
+  },
+  "dataHora": {
+    "$date": "2021-12-07T08:30:00.000Z"
+  },
+  "motivo": "Dor nas articulações",
+  "diagnostico": "Artrite",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f315"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f203"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f113"
+  },
+  "dataHora": {
+    "$date": "2021-12-20T14:00:00.000Z"
+  },
+  "motivo": "Check-up",
+  "diagnostico": "Saudável",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f316"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f204"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f114"
+  },
+  "dataHora": {
+    "$date": "2021-12-28T09:15:00.000Z"
+  },
+  "motivo": "Dor de cabeça intensa",
+  "diagnostico": "Enxaqueca",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f317"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f205"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f115"
+  },
+  "dataHora": {
+    "$date": "2021-12-29T13:45:00.000Z"
+  },
+  "motivo": "Alergia na pele",
+  "diagnostico": "Dermatite de contato",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f318"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f206"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f116"
+  },
+  "dataHora": {
+    "$date": "2021-12-30T10:30:00.000Z"
+  },
+  "motivo": "Acompanhamento gastrite",
+  "diagnostico": "Melhora significativa",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f319"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f117"
+  },
+  "dataHora": {
+    "$date": "2021-12-31T15:00:00.000Z"
+  },
+  "motivo": "Pressão alta",
+  "diagnostico": "Hipertensão descontrolada",
+  "status": "Concluída"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f320"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f208"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f118"
+  },
+  "dataHora": {
+    "$date": "2022-01-01T08:00:00.000Z"
+  },
+  "motivo": "Check-up de final de ano",
+  "diagnostico": "Saudável",
+  "status": "Concluída"
 }]

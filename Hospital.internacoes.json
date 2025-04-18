@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f601"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f112"
+  },
+  "dataEntrada": {
+    "$date": "2015-05-20T00:00:00.000Z"
+  },
+  "dataSaida": {
+    "$date": "2015-05-25T00:00:00.000Z"
+  },
+  "tipoQuarto": "QDB",
+  "enfermeiros": [
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f501"
+    },
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f502"
+    }
+  ],
+  "diagnostico": "Hérnia de disco - pós-operatório",
+  "procedimentos": [
+    "Cirurgia de hérnia",
+    "Fisioterapia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f602"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f205"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f115"
+  },
+  "dataEntrada": {
+    "$date": "2017-03-10T00:00:00.000Z"
+  },
+  "dataSaida": {
+    "$date": "2017-03-12T00:00:00.000Z"
+  },
+  "tipoQuarto": "ENF",
+  "enfermeiros": [
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f503"
+    },
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f504"
+    }
+  ],
+  "diagnostico": "Crise asmática grave",
+  "procedimentos": [
+    "Nebulização",
+    "Oxigenoterapia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f603"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f117"
+  },
+  "dataEntrada": {
+    "$date": "2018-05-15T00:00:00.000Z"
+  },
+  "dataSaida": {
+    "$date": "2018-05-20T00:00:00.000Z"
+  },
+  "tipoQuarto": "APT",
+  "enfermeiros": [
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f505"
+    },
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f506"
+    }
+  ],
+  "diagnostico": "Hipertensão descontrolada",
+  "procedimentos": [
+    "Monitoramento cardíaco",
+    "Ajuste medicamentoso"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f604"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f210"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f120"
+  },
+  "dataEntrada": {
+    "$date": "2020-01-10T00:00:00.000Z"
+  },
+  "dataSaida": {
+    "$date": "2020-01-15T00:00:00.000Z"
+  },
+  "tipoQuarto": "QDB",
+  "enfermeiros": [
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f507"
+    },
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f508"
+    }
+  ],
+  "diagnostico": "Lesão no menisco - pós-operatório",
+  "procedimentos": [
+    "Artroscopia",
+    "Fisioterapia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f605"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f112"
+  },
+  "dataEntrada": {
+    "$date": "2021-01-05T00:00:00.000Z"
+  },
+  "dataSaida": {
+    "$date": "2021-01-08T00:00:00.000Z"
+  },
+  "tipoQuarto": "ENF",
+  "enfermeiros": [
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f509"
+    },
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f510"
+    }
+  ],
+  "diagnostico": "Complicações diabetes",
+  "procedimentos": [
+    "Controle glicêmico",
+    "Reidratação"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f606"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f212"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f122"
+  },
+  "dataEntrada": {
+    "$date": "2021-03-05T00:00:00.000Z"
+  },
+  "dataSaida": {
+    "$date": "2021-03-10T00:00:00.000Z"
+  },
+  "tipoQuarto": "APT",
+  "enfermeiros": [
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f501"
+    },
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f503"
+    }
+  ],
+  "diagnostico": "AVC isquêmico",
+  "procedimentos": [
+    "Trombólise",
+    "Fisioterapia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f607"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f117"
+  },
+  "dataEntrada": {
+    "$date": "2021-12-31T00:00:00.000Z"
+  },
+  "dataSaida": {
+    "$date": "2022-01-05T00:00:00.000Z"
+  },
+  "tipoQuarto": "APT",
+  "enfermeiros": [
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f505"
+    },
+    {
+      "$oid": "65f8a1b2c1e8f4a9d3e7f507"
+    }
+  ],
+  "diagnostico": "Crise hipertensiva",
+  "procedimentos": [
+    "Monitoramento intensivo",
+    "Ajuste medicamentoso"
+  ]
+}]

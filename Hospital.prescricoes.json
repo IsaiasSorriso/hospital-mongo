@@ -1,0 +1,316 @@
+[{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f401"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f302"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f112"
+  },
+  "dataPrescricao": {
+    "$date": "2015-05-15T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Dorflex",
+      "dosagem": "300mg",
+      "frequencia": "6/6 horas",
+      "duracao": "5 dias"
+    },
+    {
+      "nome": "Omeprazol",
+      "dosagem": "20mg",
+      "frequencia": "1x ao dia",
+      "duracao": "10 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f402"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f303"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f203"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f113"
+  },
+  "dataPrescricao": {
+    "$date": "2016-01-20T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Ciprofloxacino",
+      "dosagem": "500mg",
+      "frequencia": "12/12 horas",
+      "duracao": "7 dias"
+    },
+    {
+      "nome": "Paracetamol",
+      "dosagem": "750mg",
+      "frequencia": "8/8 horas",
+      "duracao": "3 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f403"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f304"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f204"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f114"
+  },
+  "dataPrescricao": {
+    "$date": "2016-07-05T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Sumax",
+      "dosagem": "50mg",
+      "frequencia": "1 comprimido ao surgir crise",
+      "duracao": "10 comprimidos"
+    },
+    {
+      "nome": "Fluxon",
+      "dosagem": "10mg",
+      "frequencia": "1x ao dia",
+      "duracao": "30 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f404"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f306"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f206"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f116"
+  },
+  "dataPrescricao": {
+    "$date": "2017-09-22T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Pantoprazol",
+      "dosagem": "40mg",
+      "frequencia": "1x ao dia",
+      "duracao": "30 dias"
+    },
+    {
+      "nome": "Dexametasona",
+      "dosagem": "0,75mg",
+      "frequencia": "2x ao dia",
+      "duracao": "5 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f405"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f307"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f117"
+  },
+  "dataPrescricao": {
+    "$date": "2018-04-30T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Losartana",
+      "dosagem": "50mg",
+      "frequencia": "1x ao dia",
+      "duracao": "Uso contínuo"
+    },
+    {
+      "nome": "Hidroclorotiazida",
+      "dosagem": "25mg",
+      "frequencia": "1x ao dia",
+      "duracao": "Uso contínuo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f406"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f310"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f210"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f120"
+  },
+  "dataPrescricao": {
+    "$date": "2020-01-08T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Cetoprofeno",
+      "dosagem": "100mg",
+      "frequencia": "12/12 horas",
+      "duracao": "7 dias"
+    },
+    {
+      "nome": "Torsilax",
+      "dosagem": "1 comprimido",
+      "frequencia": "8/8 horas",
+      "duracao": "5 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f407"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f312"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f212"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f122"
+  },
+  "dataPrescricao": {
+    "$date": "2021-03-03T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Betahistina",
+      "dosagem": "16mg",
+      "frequencia": "3x ao dia",
+      "duracao": "30 dias"
+    },
+    {
+      "nome": "Dramin",
+      "dosagem": "50mg",
+      "frequencia": "1 comprimido ao surgir tontura",
+      "duracao": "10 comprimidos"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f408"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f314"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f112"
+  },
+  "dataPrescricao": {
+    "$date": "2021-12-07T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Celecoxibe",
+      "dosagem": "200mg",
+      "frequencia": "1x ao dia",
+      "duracao": "10 dias"
+    },
+    {
+      "nome": "Paracetamol",
+      "dosagem": "750mg",
+      "frequencia": "8/8 horas",
+      "duracao": "5 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f409"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f316"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f204"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f114"
+  },
+  "dataPrescricao": {
+    "$date": "2021-12-28T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Sumax",
+      "dosagem": "50mg",
+      "frequencia": "1 comprimido ao surgir crise",
+      "duracao": "10 comprimidos"
+    },
+    {
+      "nome": "Fluxon",
+      "dosagem": "10mg",
+      "frequencia": "1x ao dia",
+      "duracao": "30 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f410"
+  },
+  "consulta": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f319"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "medico": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f117"
+  },
+  "dataPrescricao": {
+    "$date": "2021-12-31T00:00:00.000Z"
+  },
+  "medicamentos": [
+    {
+      "nome": "Losartana",
+      "dosagem": "100mg",
+      "frequencia": "1x ao dia",
+      "duracao": "Uso contínuo"
+    },
+    {
+      "nome": "Hidroclorotiazida",
+      "dosagem": "25mg",
+      "frequencia": "1x ao dia",
+      "duracao": "Uso contínuo"
+    },
+    {
+      "nome": "Propranolol",
+      "dosagem": "40mg",
+      "frequencia": "2x ao dia",
+      "duracao": "Uso contínuo"
+    }
+  ]
+}]

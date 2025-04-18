@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f701"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f201"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f111"
+  },
+  "tipo": "Hemograma completo",
+  "dataSolicitacao": {
+    "$date": "2015-03-10T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2015-03-11T00:00:00.000Z"
+  },
+  "laboratorio": "Lab Saúde",
+  "resultado": {
+    "hemoglobina": "14 g/dL",
+    "leucocitos": "7000/mm3",
+    "observacoes": "Dentro dos parâmetros normais"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f702"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f202"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f112"
+  },
+  "tipo": "Ressonância magnética - coluna",
+  "dataSolicitacao": {
+    "$date": "2015-05-15T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2015-05-16T00:00:00.000Z"
+  },
+  "laboratorio": "Imagem Diagnósticos",
+  "resultado": {
+    "observacoes": "Hérnia de disco L4-L5"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f703"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f203"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f113"
+  },
+  "tipo": "Urina tipo I",
+  "dataSolicitacao": {
+    "$date": "2016-01-20T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2016-01-21T00:00:00.000Z"
+  },
+  "laboratorio": "Lab Saúde",
+  "resultado": {
+    "leucocitos": "25/campo",
+    "nitrito": "Positivo",
+    "observacoes": "Infecção urinária"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f704"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f204"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f114"
+  },
+  "tipo": "Tomografia computadorizada - crânio",
+  "dataSolicitacao": {
+    "$date": "2016-07-05T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2016-07-06T00:00:00.000Z"
+  },
+  "laboratorio": "Imagem Diagnósticos",
+  "resultado": {
+    "observacoes": "Sem alterações significativas"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f705"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f205"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f115"
+  },
+  "tipo": "Teste de alergia",
+  "dataSolicitacao": {
+    "$date": "2017-02-18T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2017-02-20T00:00:00.000Z"
+  },
+  "laboratorio": "AlergoLab",
+  "resultado": {
+    "alergenos": [
+      "Dipirona",
+      "Amoxicilina"
+    ],
+    "observacoes": "Alergia confirmada"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f706"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f206"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f116"
+  },
+  "tipo": "Endoscopia digestiva alta",
+  "dataSolicitacao": {
+    "$date": "2017-09-22T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2017-09-25T00:00:00.000Z"
+  },
+  "laboratorio": "GastroCenter",
+  "resultado": {
+    "observacoes": "Gastrite erosiva moderada"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f707"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f207"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f117"
+  },
+  "tipo": "Holter 24h",
+  "dataSolicitacao": {
+    "$date": "2018-04-30T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2018-05-01T00:00:00.000Z"
+  },
+  "laboratorio": "CardioLab",
+  "resultado": {
+    "observacoes": "Picos hipertensivos frequentes"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f708"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f208"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f118"
+  },
+  "tipo": "Check-up laboratorial",
+  "dataSolicitacao": {
+    "$date": "2018-11-12T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2018-11-13T00:00:00.000Z"
+  },
+  "laboratorio": "Lab Saúde",
+  "resultado": {
+    "glicemia": "92 mg/dL",
+    "colesterol": "180 mg/dL",
+    "observacoes": "Dentro dos parâmetros normais"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f709"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f209"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f119"
+  },
+  "tipo": "PCR para COVID-19",
+  "dataSolicitacao": {
+    "$date": "2019-06-25T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2019-06-26T00:00:00.000Z"
+  },
+  "laboratorio": "Virologia Clínica",
+  "resultado": {
+    "observacoes": "Negativo"
+  },
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f710"
+  },
+  "paciente": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f210"
+  },
+  "medicoSolicitante": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f120"
+  },
+  "tipo": "Ressonância magnética - joelho",
+  "dataSolicitacao": {
+    "$date": "2020-01-08T00:00:00.000Z"
+  },
+  "dataRealizacao": {
+    "$date": "2020-01-09T00:00:00.000Z"
+  },
+  "laboratorio": "Imagem Diagnósticos",
+  "resultado": {
+    "observacoes": "Lesão no menisco medial"
+  },
+  "status": "Concluído"
+}]

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f501"
+  },
+  "coren": "SP123456",
+  "nome": "Ana Paula Santos",
+  "telefone": "(11) 98765-4321",
+  "especialidade": "UTI",
+  "turno": "Manhã"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f502"
+  },
+  "coren": "SP234567",
+  "nome": "Carlos Eduardo Lima",
+  "telefone": "(11) 99876-5432",
+  "especialidade": "Emergência",
+  "turno": "Tarde"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f503"
+  },
+  "coren": "SP345678",
+  "nome": "Mariana Oliveira",
+  "telefone": "(11) 98765-1234",
+  "especialidade": "Pediatria",
+  "turno": "Noite"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f504"
+  },
+  "coren": "SP456789",
+  "nome": "Roberto Carlos Silva",
+  "telefone": "(11) 99988-7766",
+  "especialidade": "UTI",
+  "turno": "Manhã"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f505"
+  },
+  "coren": "SP567890",
+  "nome": "Fernanda Lima Costa",
+  "telefone": "(11) 98877-6655",
+  "especialidade": "Cirurgia",
+  "turno": "Tarde"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f506"
+  },
+  "coren": "SP678901",
+  "nome": "Marcelo Oliveira Souza",
+  "telefone": "(11) 97766-5544",
+  "especialidade": "Emergência",
+  "turno": "Noite"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f507"
+  },
+  "coren": "SP789012",
+  "nome": "Patricia Costa Mendes",
+  "telefone": "(11) 96655-4433",
+  "especialidade": "UTI",
+  "turno": "Manhã"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f508"
+  },
+  "coren": "SP890123",
+  "nome": "Ricardo Fernandes Alves",
+  "telefone": "(11) 95544-3322",
+  "especialidade": "Enfermaria",
+  "turno": "Tarde"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f509"
+  },
+  "coren": "SP901234",
+  "nome": "Beatriz Gomes Pereira",
+  "telefone": "(11) 94433-2211",
+  "especialidade": "Pediatria",
+  "turno": "Noite"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f510"
+  },
+  "coren": "SP012345",
+  "nome": "Eduardo Martins Ribeiro",
+  "telefone": "(11) 93322-1100",
+  "especialidade": "Cirurgia",
+  "turno": "Manhã"
+}]

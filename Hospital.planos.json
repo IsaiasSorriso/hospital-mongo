@@ -1,1 +1,40 @@
-[]
+[{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f101"
+  },
+  "nome": "Saúde Total",
+  "cnpj": "12.345.678/0001-99",
+  "cobertura": [
+    "Consultas",
+    "Exames",
+    "Internação",
+    "Cirurgias"
+  ],
+  "telefone": "0800-123-456"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f102"
+  },
+  "nome": "Bem Estar",
+  "cnpj": "98.765.432/0001-11",
+  "cobertura": [
+    "Consultas",
+    "Urgências",
+    "Exames básicos"
+  ],
+  "telefone": "0800-789-123"
+},
+{
+  "_id": {
+    "$oid": "65f8a1b2c1e8f4a9d3e7f103"
+  },
+  "nome": "Vida Plena",
+  "cnpj": "45.678.912/0001-34",
+  "cobertura": [
+    "Consultas",
+    "Exames",
+    "Internação"
+  ],
+  "telefone": "0800-345-678"
+}]
